@@ -39,7 +39,6 @@ const MagicFetcher = () => {
           ))}
         </ul>
       )}
-      <p>Data Backend (PHP) से आया और Frontend (React) में दिखा! 🎉</p>
       <h1>Time: {timestamp}</h1>
     </div>
   );
