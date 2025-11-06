@@ -8,7 +8,7 @@ const MagicFetcher = () => {
   const [timestamp, setTimestamp] = useState();
 
   useEffect(() => {
-    const API_URL = "http://localhost/Magic_api.php";
+    const API_URL = "https://react-php-sandy-api.com/magic_api.php";
 
     fetch(API_URL)
       .then((response) => response.json())
