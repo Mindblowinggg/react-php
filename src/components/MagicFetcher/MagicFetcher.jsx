@@ -1,4 +1,4 @@
-import React, { use, useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import styles from "../MagicFetcher/MagicFetcher.module.css";
 
 const MagicFetcher = () => {
